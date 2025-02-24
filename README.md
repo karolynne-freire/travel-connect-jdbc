@@ -1,4 +1,4 @@
-# ✈️ **Travel Connect-JDBC**  
+# 🏝️ **Travel Connect-JDBC**  
 
 Um sistema de **agência de viagens** desenvolvido em **Java** com **JDBC**, permitindo o gerenciamento de **clientes, destinos e promoções**.  
 
